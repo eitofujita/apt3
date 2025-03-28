@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background: #f0f0f0;
+    padding: 30px;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 500px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
